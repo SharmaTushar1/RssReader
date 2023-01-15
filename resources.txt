@@ -1,0 +1,16 @@
+# basic idea video https://www.youtube.com/watch?v=aR_69wfUSLc
+# First read the medium article
+# https://medium.com/@krandles/rss-and-ruby-its-really-simple-a32a8654733a
+# then try this
+# https://www.codementor.io/@dewetvanthomas/tutorial-rss-reader-application-for-ruby-11zrxv5ho6
+# maybe try this one 
+# https://www.developer.com/java/consuming-rss-feeds-with-ruby/
+# try this maybe 
+# https://www.honeybadger.io/blog/lets-build-an-rss-to-email-digest-script-with-ruby/
+# this is the docs https://ruby-doc.org/stdlib-2.7.0/libdoc/rss/rdoc/RSS.html
+# popular gems https://www.ruby-toolbox.com/categories/feed_parsing
+# A good site for multiple rss https://edition.cnn.com/services/rss/
+# I can have a different file for this thing just store all the rss with link as a hashmap
+# When asked for all just show the key values
+# When subscribed it will get added to the users array and will get called
+# maybe look on github
