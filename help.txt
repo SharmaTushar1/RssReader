@@ -1,0 +1,13 @@
+
+Welcome to RSS reader.
+
+SOME USEFUL COMMANDS
+    --quit to quit
+    --all to list all interests that you can subscribe to
+    --sub to show the list of subscribed interest and select one to subscribe
+    --unsub to show the list of subscribed interest and select one to unsubscribe
+    --<interest number> to subscribe to the list when in the sub menu
+    --<interest number> to unsubscribe to the interest when in the unsub menu
+    --back to go back to the previous menu
+    --showFeed to show user feed
+    --show to show subscribed topics
