@@ -228,7 +228,7 @@ def show_feed
 end
 
 def print_help
-  file = File.open('RssReader\help.txt')
+  file = File.open('help.txt')
 
   file_data = file.read
 
